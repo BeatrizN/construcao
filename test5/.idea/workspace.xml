@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9ef5cd4-d6c2-4a63-b2dc-95622ffc4e71" name="Default" comment="" />
-    <ignored path="test4.iws" />
+    <list default="true" id="998224d5-fb78-4b06-b175-584e4fb422da" name="Default" comment="" />
+    <ignored path="test5.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="test4" />
+    <favorites_list name="test5" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -126,7 +126,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test4" />
+              <option name="myItemId" value="test5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,15 +245,15 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e9ef5cd4-d6c2-4a63-b2dc-95622ffc4e71" name="Default" comment="" />
-      <created>1443112663818</created>
-      <updated>1443112663818</updated>
-      <workItem from="1443112667552" duration="351000" />
+      <changelist id="998224d5-fb78-4b06-b175-584e4fb422da" name="Default" comment="" />
+      <created>1443112926139</created>
+      <updated>1443112926139</updated>
+      <workItem from="1443112929219" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="351000" />
+    <option name="totallyTimeSpent" value="89000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="18" width="1400" height="1000" extended-state="0" />
