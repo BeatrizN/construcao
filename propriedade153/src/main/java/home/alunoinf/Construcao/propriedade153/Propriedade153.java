@@ -10,9 +10,13 @@ public class Propriedade153 {
             throw new IllegalArgumentException("n inválido");
         }
 
+        int aux = 0;
         int i = n / 100;
         int j = (n - 100*i) / 10;
         int k = n % 10;
         return ((Math.pow(i,3)) + (Math.pow(j,3)) + (Math.pow(k, 3))) == n;
     }
 }
+
+
+
